@@ -1,9 +1,4 @@
-### Hi there 👋. I'm Albin Sopaj, a Computer Science (BSc) student at the University of Camerino. 
-
-<!--
-**albinsopaj/albinsopaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+Hi there 👋. I'm Albin Sopaj, a Computer Science (BSc) student at the University of Camerino. 
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning Java, JavaScript, Svelte and other technologies!
@@ -13,4 +8,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: albin.sopaj@studenti.unicam.it
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
