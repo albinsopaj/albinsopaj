@@ -1,4 +1,4 @@
-Hi there 👋. I'm Albin Sopaj, a Computer Science (BSc) student at the University of Camerino. 
+Hi there 👋. I'm Albin, a Computer Science (BSc) student at the University of Camerino. 
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning Java, JavaScript, Svelte and other technologies!
