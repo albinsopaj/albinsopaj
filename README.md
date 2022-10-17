@@ -1,4 +1,4 @@
-Hi there 👋. I'm Albin, a Computer Science (BSc) student at the University of Camerino. 
+Hi there 👋. I'm Albin, a BSc Computer Science student at the University of Camerino. 
 
 - 🔭 I’m currently working on obtaining my BSc degree.
 - 🌱 I’m currently learning Java, JavaScript, Svelte, Flutter, Dart and other technologies!
